@@ -1,0 +1,116 @@
+::-webkit-scrollbar {
+    display: none;
+}
+
+#header{
+    background-image: url("../styles/img/images.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+    height: 60vh;
+    border: 1px solid rgb(0, 0, 0); 
+    font-family:'Times New Roman', Times, serif; 
+    
+}
+
+#cuerpo{
+    background: linear-gradient(90deg, rgba(207,184,152,1) 5%, rgba(251,236,215,1) 50%, rgba(207,184,152,1) 95%);
+}
+
+.cuadrado {
+    text-align: justify;
+    margin-left: 2%;
+    width: 96vw;           
+    height: 32vw;         
+    background:#fbecd7;       
+    border: 5px solid rgb(255, 255, 255);  
+    border-radius: 20px; 
+}
+
+.cuadrado h2{
+    text-align: center;
+}
+
+#historia{
+    margin: 1%;
+}
+
+#nav{
+    text-align: center;
+    z-index: 10;
+    position: fixed;
+    width: 200.5vh;
+}  
+
+.card{
+    left: 37%;
+    width: 25vw;
+    text-align: justify;
+    display: flex;
+
+}
+
+.cuadrado2 {
+    text-align: center;
+    margin-left: 2%;
+    width: 96vw;           
+    height: 110vh;         
+    background:#fbecd7;       
+    border: 5px solid rgb(255, 255, 255);  
+    border-radius: 20px; 
+}
+
+.cuadrado2 h2{
+    text-align: center;
+}
+
+.cuadrado2 h4{
+    text-align: center;
+}
+
+.cuadrado2 h5{
+    text-align: center;
+}
+
+#img{
+    border-radius: 30px;
+    width: 20vw;
+    height:30vh
+}
+
+.card> .card-img-top{
+width: 24.8vw;
+height: 35vh;
+
+}
+
+#footer{
+    text-align: center;
+    background: linear-gradient(90deg, rgba(207,184,152,1) 5%, rgba(251,236,215,1) 50%, rgba(207,184,152,1) 95%);
+    border: 1px solid white;
+}
+
+UL.col3
+{
+PADDING-RIGHT: 0px;
+PADDING-LEFT: 120px;
+FLOAT: left;
+PADDING-BOTTOM: 0px;
+MARGIN: 15px 0px;
+WIDTH: 100%;
+PADDING-TOP: 0px;
+LIST-STYLE-TYPE: none
+}
+
+UL.col3 LI
+{
+PADDING-RIGHT: 2px;
+DISPLAY: inline;
+PADDING-LEFT: 2px;
+FLOAT: left;
+PADDING-BOTTOM: 2px;
+WIDTH: 30%;
+PADDING-TOP: 2px
+}
+
+
